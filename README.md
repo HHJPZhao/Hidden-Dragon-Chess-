@@ -34,6 +34,9 @@ This variant uses custom rules for several key pieces to make the game more dyna
 * **Elephant (象):** Moves and captures any number of squares diagonally, like a standard Chess Bishop.
 * **Horse (馬):** Jumps in an 'L' shape and cannot be blocked, like a standard Chess Knight.
 * **Cannon (炮):** Can use **any** piece (flipped or hidden) as a "platform" to jump over for a capture.
+* **Soldier (兵/卒):** Moves and captures one square in any of the four orthogonal directions (forward, backward, left, or right). It is a versatile and important piece in the crowded opening.
+
+---
 
 ## How To Play
 
