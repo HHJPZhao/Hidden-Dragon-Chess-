@@ -10,7 +10,7 @@ A unique and strategic chess variant based on Chinese Chess (象棋) combined wi
 
 You can play the latest version of Hidden Dragon Chess right here in your browser:
 
-**[https://hhjpzhao.github.io/Happy-Flip-Chess/](https://hhjpzhao.github.io/Happy-Flip-Chess/)**
+**[https://hhjpzhao.github.io/Happy-Flip-Chess/](https://hhjpzhao.github.io/Hidden-Dragon-Chess-/)**
 
 
 ---
