@@ -1,6 +1,6 @@
 # Hidden Dragon Chess (暗龍棋)
 
-![Game Screenshot](https://i.imgur.com/w4J9i0s.png) 
+![Game Screenshot]() 
 *(To create your own screenshot, upload an image to your repository and replace the URL here)*
 
 A unique and strategic chess variant based on Chinese Chess (象棋) combined with a "fog of war" flipping mechanic. All 32 pieces start face-down on a crowded 4x8 board, forcing players to make tactical decisions about what to reveal and when to attack.
